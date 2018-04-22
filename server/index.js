@@ -11,3 +11,5 @@ const PORT = process.env.PORT || 5000;     //environment variables - allows Hero
 //Dev Environment = use 5000 - deployment = whatever Port Heroku wants us to use.
 app.listen(5000); //telling node js runtime watch out for traffic on localhost:5000
 
+// https://rocky-thicket-56388.herokuapp.com/
+//https://git.heroku.com/rocky-thicket-56388.git
